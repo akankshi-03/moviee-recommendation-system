@@ -1,4 +1,4 @@
-## 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 A **content-based movie recommendation system** built using **TF-IDF vectorization** and **cosine similarity** on movie genres, deployed as a **web application using Streamlit**. Users can enter a movie name and get **top 10 similar movies** recommended.
 
